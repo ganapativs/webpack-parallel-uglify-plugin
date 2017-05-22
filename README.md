@@ -16,6 +16,7 @@ module.exports = {
       workerCount, // Optional int. Number of workers to run uglify. Defaults to num of cpus - 1 or asset count (whichever is smaller)
       uglifyJS: {
         // These pass straight through to uglify.
+        // Checkout https://github.com/mishoo/UglifyJS2 for valid options
       },
     }),
   ],

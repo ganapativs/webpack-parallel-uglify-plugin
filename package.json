@@ -1,7 +1,7 @@
 {
   "name": "webpack-parallel-uglify-3-plugin",
-  "version": "0.4.2",
-  "description": "A webpack plugin to run uglifyjs in parallel.",
+  "version": "0.4.3",
+  "description": "A webpack plugin to run uglifyjs in parallel. Uses uglifyJs 3.",
   "main": "index.js",
   "scripts": {
     "test": "nyc --reporter=html ava",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gdborton/webpack-parallel-uglify-plugin.git"
+    "url": "git://github.com/ganapativs/webpack-parallel-uglify-plugin.git"
   },
   "keywords": [
     "webpack",
